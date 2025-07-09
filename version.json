@@ -1,4 +1,4 @@
 {
   "latest_version": "1.0.1",
-  "bin_url": "https://github.com/NimeCloud/GateControlFirmware/raw/refs/heads/main/firmware.bin"
+  "bin_url": "https://raw.githubusercontent.com/NimeCloud/GateControlFirmware/main/firmware.bin"
 }
