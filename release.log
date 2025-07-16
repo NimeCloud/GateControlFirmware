@@ -1,2 +1,34 @@
 [Bitiş: Çar 16.07.2025 11:11:57,81] 
 git add . 
+- Tüm değişiklikler eklendi. 
+git commit -m "Release Build 155 surumu yayinlandi." 
+[main 93b2871] Release Build 155 surumu yayinlandi.
+ 2 files changed, 3 insertions(+), 1 deletion(-)
+- Değişiklikler commit edildi. 
+git pull origin main 
+From https://github.com/NimeCloud/GateControlFirmware
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+- Sunucudan en güncel hali çekildi. 
+git push origin main 
+To https://github.com/NimeCloud/GateControlFirmware.git
+   cbd7225..93b2871  main -> main
+- Değişiklikler başarıyla GitHub'a gönderildi. 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   release.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+commit 93b2871ff696626be41cb0b4841bb6220bb6563e
+Author: Emin Akbulut <eminakbulut@hotmail.com>
+Date:   Wed Jul 16 11:12:38 2025 +0300
+
+    Release Build 155 surumu yayinlandi.
+[✓] İşlem tamamlandı 
+--------------------------------------------- 
+[Bitiş: Çar 16.07.2025 11:12:40,21] 
+git add . 
