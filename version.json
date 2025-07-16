@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.1.152",
-    "firmware_url": "https://raw.githubusercontent.com/NimeCloud/GateControlFirmware/main/release/gate_firmware_152.bin",
-    "firmware_hash": "ed0ec0fa93da5918eb09296bdb7ecc2df01407909dd86cee70f53162a219b28c"
+    "latest_version": "1.1.153",
+    "firmware_url": "https://raw.githubusercontent.com/NimeCloud/GateControlFirmware/main/release/gate_firmware_153.bin",
+    "firmware_hash": "e3cf59909103326cc096a7a4952b44181e84b6b56b72d6085eeea0c1bca7ebf2"
 }
