@@ -165,3 +165,19 @@ Date:   Wed Jul 16 11:47:25 2025 +0300
 --------------------------------------------- 
 [Bitiş: Çar 16.07.2025 11:47:27,86] 
 git add . 
+warning: in the working copy of 'release.log', LF will be replaced by CRLF the next time Git touches it
+- Tüm değişiklikler eklendi. 
+git commit -m "Release Build 157 surumu yayinlandi." 
+[main eeda078] Release Build 157 surumu yayinlandi.
+ 3 files changed, 37 insertions(+), 3 deletions(-)
+ create mode 100644 gate_firmware_157.bin
+- Değişiklikler commit edildi. 
+git pull origin main 
+From https://github.com/NimeCloud/GateControlFirmware
+ * branch            main       -> FETCH_HEAD
+warning: in the working copy of 'release.log', LF will be replaced by CRLF the next time Git touches it
+Auto-merging version.json
+CONFLICT (content): Merge conflict in version.json
+Automatic merge failed; fix conflicts and then commit the result.
+[HATA] git pull başarısız. 
+git add . 
