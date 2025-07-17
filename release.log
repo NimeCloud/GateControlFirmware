@@ -214,3 +214,36 @@ Date:   Thu Jul 17 13:54:51 2025 +0300
 --------------------------------------------- 
 [Bitiş: Per 17.07.2025 13:54:54,81] 
 git add . 
+warning: in the working copy of 'release.log', LF will be replaced by CRLF the next time Git touches it
+- Tüm değişiklikler eklendi. 
+git commit -m "Release Build 157 surumu yayinlandi." 
+[main 95c851b] Release Build 157 surumu yayinlandi.
+ 1 file changed, 33 insertions(+)
+- Değişiklikler commit edildi. 
+git pull origin main 
+From https://github.com/NimeCloud/GateControlFirmware
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+- Sunucudan en güncel hali çekildi. 
+git push origin main 
+To https://github.com/NimeCloud/GateControlFirmware.git
+   968c9aa..95c851b  main -> main
+- Değişiklikler başarıyla GitHub'a gönderildi. 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   release.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+commit 95c851b11951b841c28920ba4a5e288f0abf037d
+Author: Emin Akbulut <eminakbulut@hotmail.com>
+Date:   Thu Jul 17 13:56:17 2025 +0300
+
+    Release Build 157 surumu yayinlandi.
+[✓] İşlem tamamlandı 
+--------------------------------------------- 
+[Bitiş: Per 17.07.2025 13:56:19,67] 
+git add . 
