@@ -131,3 +131,37 @@ Date:   Wed Jul 16 11:30:46 2025 +0300
 --------------------------------------------- 
 [Bitiş: Çar 16.07.2025 11:30:48,94] 
 git add . 
+warning: in the working copy of 'release.log', LF will be replaced by CRLF the next time Git touches it
+- Tüm değişiklikler eklendi. 
+git commit -m "Release Build 156 surumu yayinlandi." 
+[main 00069cd] Release Build 156 surumu yayinlandi.
+ 3 files changed, 37 insertions(+), 4 deletions(-)
+ create mode 100644 gate_firmware_156.bin
+- Değişiklikler commit edildi. 
+git pull origin main 
+From https://github.com/NimeCloud/GateControlFirmware
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+- Sunucudan en güncel hali çekildi. 
+git push origin main 
+To https://github.com/NimeCloud/GateControlFirmware.git
+   33f245e..00069cd  main -> main
+- Değişiklikler başarıyla GitHub'a gönderildi. 
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   release.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+commit 00069cd1457a13563a63e84535fa83a611ceb190
+Author: Emin Akbulut <eminakbulut@hotmail.com>
+Date:   Wed Jul 16 11:47:25 2025 +0300
+
+    Release Build 156 surumu yayinlandi.
+[✓] İşlem tamamlandı 
+--------------------------------------------- 
+[Bitiş: Çar 16.07.2025 11:47:27,86] 
+git add . 
