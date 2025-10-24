@@ -1,5 +1,5 @@
 {
-    "latest_version": "1.1.995",
-    "firmware_url": "https://api.github.com/repos/NimeCloud/TrackerControlFirmware/contents/tracker_firmware_995.bin?ref=main",
-    "firmware_hash": "3dc495a3d598be5c7f6142a0ab0071718e8154657e4d290e067d31c24ac14c4b"
+    "latest_version": "1.1.1021",
+    "firmware_url": "https://api.github.com/repos/NimeCloud/TrackerControlFirmware/contents/tracker_firmware_1021.bin?ref=main",
+    "firmware_hash": "7cf076b939b21ebe32b4f7aae640a75338c8266350089904f9c58924899d5f30"
 }
